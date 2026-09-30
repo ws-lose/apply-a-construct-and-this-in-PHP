@@ -9,8 +9,8 @@ class Mahasiswa {
     }
 
     public function tampilkanData() {
-    echo "Nama: ". $this->nama."<br<";
-    echo "Prodi ". $this->prodi. "<br>";
+    echo "Nama : ". $this->nama."<br>";
+    echo "Prodi : ". $this->prodi."<br>";
     }
 }
 
